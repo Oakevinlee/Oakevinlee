@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
-**Oakevinlee/Oakevinlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## i'm using a template, will update this when the storm passes
 
 - 🔭 I’m currently working on ... Building a Pokedex!
 - 🌱 I’m currently learning ... JavaScript and CSS
@@ -12,4 +9,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... klees19@gmail.com
 - 😄 Pronouns: ... He/him
 - ⚡ Fun fact: ... Former Air Force Medic
--->
